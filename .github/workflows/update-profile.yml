@@ -24,7 +24,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Generate Categorized README
         env:
@@ -39,7 +39,8 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git add README.md
             git commit -m "chore: auto-update profile categorized navigation [skip ci]"
-            git push
+            git pull --rebase origin main
+            git push origin main
           else
             echo "No changes detected in README.md"
           fi
