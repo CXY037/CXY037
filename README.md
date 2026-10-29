@@ -52,6 +52,12 @@
 | **[social-analyzer](https://github.com/CXY037/social-analyzer)** 🔀 `Fork` | `JavaScript` | API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly) | `my-modified` `osint` `tool` |
 | **[cnki-Scholar](https://github.com/CXY037/cnki-Scholar)** 🔀 `Fork` | `-` | About 在知网文章列表页面添加直接下载PDF按钮、悬停显示摘要功能，增加下载所有PDF按钮，不用跳转页面即可下载文章； 支持显示北大核心期刊、中科院2025分区、JCR分区、WJCI分区、SCI、SCIE、CSSCI、CSCD核心\扩展等标签、以及期刊影响因子。 | `my-modified` `scholar` `tampermonkey` |
 
+### 📦 其他仓库与实验项目
+
+| 仓库名 | 主要语言 | 简介 | 核心标签 |
+| :--- | :---: | :--- | :--- |
+| **[wechat-4x-decrypt](https://github.com/CXY037/wechat-4x-decrypt)** 🔀 `Fork` | `-` | 微信 4.x 本地聊天记录解密与检索 Skill（Windows / 零第三方依赖）。出品：skill 出品 · 周一 · 皮皮未来 | - |
+
 ---
 
 ### 🛠️ 技术统计与概览
@@ -61,4 +67,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CXY037&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
-*⏱️ 最近自动更新时间 (UTC): 2026-10-28 23:48:15*
+*⏱️ 最近自动更新时间 (UTC): 2026-10-29 23:45:43*
