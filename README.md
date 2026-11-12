@@ -56,6 +56,7 @@
 
 | 仓库名 | 主要语言 | 简介 | 核心标签 |
 | :--- | :---: | :--- | :--- |
+| **[Claude-Cage](https://github.com/CXY037/Claude-Cage)** 🔀 `Fork` | `-` | Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。 | - |
 | **[wechat-4x-decrypt](https://github.com/CXY037/wechat-4x-decrypt)** 🔀 `Fork` | `-` | 微信 4.x 本地聊天记录解密与检索 Skill（Windows / 零第三方依赖）。出品：skill 出品 · 周一 · 皮皮未来 | - |
 
 ---
@@ -67,4 +68,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CXY037&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
-*⏱️ 最近自动更新时间 (UTC): 2026-11-11 00:23:21*
+*⏱️ 最近自动更新时间 (UTC): 2026-11-12 01:46:23*
